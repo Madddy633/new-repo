@@ -1,4 +1,6 @@
-=> git init               --> initialise git
-=> git add                --> adding files to staging area
-=> git commit -m"message" --> adding files to local repository
-=> git status             --> listing all untracked files
+=> git init                --> initialise git
+=> git add                 --> adding files to staging area
+=> git commit -m"message"  --> adding files to local repository
+=> git status              --> listing all untracked files
+=> git remote add name path--> to add remote
+=> git push -u name master --> push in tio remote repository
